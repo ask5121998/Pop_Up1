@@ -17,6 +17,7 @@ public class ClassA {
 		Thread.sleep(2000);
 		
 	// ankita
+	// sanjay
 	
 	// Use of Click(); & accept(); method
 		
